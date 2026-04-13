@@ -52,8 +52,6 @@ streamlit run app.py
 
 Helps legal teams quickly review NDAs and identify risks automatically.
 
-## 👨‍💻 Author
 
-Durga Prasad
 
 
